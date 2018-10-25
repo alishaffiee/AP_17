@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a7ce7c98-125b-4c53-93d3-843c5fd99e3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/AP_17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AP_17.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="7b64ded4-d772-49ca-b90c-fd8180e39e8e" name="Default Changelist" comment="">
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
       <change beforePath="$PROJECT_DIR$/phase -1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/phase -1/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,33 +18,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="-1128968206">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.1" value="1" />
+=======
+    <session id="1659413653">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="java" value="4" />
           <entry key="txt" value="2" />
+=======
+          <entry key="ali" value="2" />
+          <entry key="gitignore" value="2" />
+          <entry key="java" value="1" />
+          <entry key="md" value="3" />
+          <entry key="txt" value="3" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
+=======
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="10" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="java" value="556" />
+=======
+          <entry key="java" value="3" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="556" />
+=======
+          <entry key="JAVA" value="3" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
         </counts>
       </usages-collector>
     </session>
@@ -48,6 +80,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Shayan.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -99,10 +132,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+=======
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phase -1/Player.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,12 +156,20 @@
                 <element signature="e#388#389#0" expanded="true" />
                 <element signature="e#411#412#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phase -1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -129,12 +177,15 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/phase -1/Block.java" />
         <option value="$PROJECT_DIR$/phase -1/Main.java" />
         <option value="$PROJECT_DIR$/phase -1/Building.java" />
@@ -149,9 +200,43 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+        <option value="$PROJECT_DIR$/phase -1/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="725" />
+    <option name="width" value="1298" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AP_17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AP_17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AP_17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AP_17" type="462c0819:PsiDirectoryNode" />
+              <item name="phase -1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -179,6 +264,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540463690879" />
@@ -188,6 +274,10 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540461874161" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,6 +291,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -215,11 +306,14 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="a7ce7c98-125b-4c53-93d3-843c5fd99e3c" name="Default Changelist" comment="" />
       <created>1540461333458</created>
       <option name="number" value="Default" />
@@ -267,10 +361,51 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+=======
+      <changelist id="7b64ded4-d772-49ca-b90c-fd8180e39e8e" name="Default Changelist" comment="" />
+      <created>1540461276199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540461276199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="23" width="1298" height="803" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/sasa.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -323,11 +458,30 @@
             <element signature="e#388#389#0" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/Shayan.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sasa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ali">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phase -1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
@@ -411,5 +565,12 @@
         </settings>
       </state>
     </states>
+=======
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 4607c492b97f2d2344c837ea0107f6793805b49c
   </component>
 </project>
